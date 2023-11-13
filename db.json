@@ -1,7 +1,9 @@
 {
-  "livros":[
-    {"id": 1, "nome": "The guardians"},
-    {"id": 2, "nome": "fsdfs"},
-    {"id": 3, "nome": "htp"}
+  "usuario":[
+    {"id":1,"nome"}
+  "jogos":[
+    {"id": 1, "nome": "RocketLeague"},
+    {"id": 2, "nome": "GTAV"},
+    {"id": 3, "nome": "MobileLegendsBangBang"}
   ]
 }
